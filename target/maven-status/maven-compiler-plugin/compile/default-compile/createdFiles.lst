@@ -1,0 +1,12 @@
+com\securin\weatheranalytics\dto\WeatherResponseDTO$WeatherResponseDTOBuilder.class
+com\securin\weatheranalytics\dto\WeatherResponseDTO.class
+com\securin\weatheranalytics\WeatherAnalyticsApplication.class
+com\securin\weatheranalytics\repository\WeatherRepository.class
+com\securin\weatheranalytics\dto\ErrorResponse$ErrorResponseBuilder.class
+com\securin\weatheranalytics\config\OpenApiConfig.class
+com\securin\weatheranalytics\exception\GlobalExceptionHandler.class
+com\securin\weatheranalytics\dto\TemperatureStatsDTO.class
+com\securin\weatheranalytics\entity\Weather.class
+com\securin\weatheranalytics\service\WeatherService.class
+com\securin\weatheranalytics\controller\WeatherController.class
+com\securin\weatheranalytics\dto\ErrorResponse.class

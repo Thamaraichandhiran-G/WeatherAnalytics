@@ -1,0 +1,10 @@
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\config\OpenApiConfig.java
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\controller\WeatherController.java
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\dto\ErrorResponse.java
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\dto\TemperatureStatsDTO.java
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\dto\WeatherResponseDTO.java
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\entity\Weather.java
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\exception\GlobalExceptionHandler.java
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\repository\WeatherRepository.java
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\service\WeatherService.java
+D:\java\WeatherAnalytics\src\main\java\com\securin\weatheranalytics\WeatherAnalyticsApplication.java
